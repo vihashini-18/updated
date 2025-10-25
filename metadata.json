@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Face Detection Attendance System",
+  "description": "A web application for managing student attendance using real-time face detection. It features separate dashboards for users (students) and administrators, allowing for attendance tracking, data management, and live camera-based recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
